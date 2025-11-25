@@ -1,2 +1,2 @@
 # Evalue
-A finance tracker project to monitor expenses and value over time.
+A Python‑based finance tracker project using JSON storage to monitor expenses and value over time.
