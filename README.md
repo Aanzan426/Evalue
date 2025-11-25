@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evalue Finance Tracker
 
 Evalue is a Python-based finance tracker that uses JSON for storage.
@@ -22,3 +23,7 @@ It helps monitor personal finances, track savings, and analyze spending patterns
 Evalue was created to help understand personal finances — how much is saved and spent.
 The long-term vision is to evolve into a tool for investment tracking and financial insights.
 
+=======
+# Evalue
+A Python‑based finance tracker project using JSON storage to monitor expenses and value over time.
+>>>>>>> 7ce35ed98960f3a5e6c0cc1a296e6ae496857909
