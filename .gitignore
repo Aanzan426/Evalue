@@ -1,0 +1,14 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore backup JSON files
+*.json.backup
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore logs
+*.log
